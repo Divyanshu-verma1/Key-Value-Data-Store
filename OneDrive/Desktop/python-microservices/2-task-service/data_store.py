@@ -1,3 +1,5 @@
+# DAO - Data Access Object for tasks entities
+
 from typing import List
 from models import Task
 
